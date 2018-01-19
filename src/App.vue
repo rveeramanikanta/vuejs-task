@@ -2,7 +2,7 @@
   <div id="app" class="container">
 
     <div class="jumbotron">
-      
+      Weather App
     </div>
 
     <router-view/>
